@@ -1,9 +1,9 @@
 {
-  "greeting": "allo",
-  "name": "Britannia",
+  "greeting": "Hi",
+  "name": "P❤️nne",
   "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
-  "imagePath": "img/lydia2.png",
+  "wishText": "Happy Birthday! We dont get to choose our families, but we do get to choose our friends—and you've been closer than family to me. Wishing you a day filled with joy, laughter, and all the amazing things you love. Have a fantastic year ahead, filled with every happiness and blessing! 🎉",
+  "imagePath": "img/lydia2.jpg",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
-  "outroSmiley": ":)"
+  "outroText": "Thank you for being a part of this special day!",
+  "replayText": "Click here if you want to relive the celebration.",
+  "outroSmiley": "😊"
 }
